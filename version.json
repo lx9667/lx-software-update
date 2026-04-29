@@ -1,5 +1,5 @@
 {
-  "version": "2.4",
+  "version": "2.4.1",
   "downloadUrl": "https://drive.uc.cn/s/cf74b1aeb3824?public=1",
   "updateLog": "- 升级 UI 界面，更简洁便利\n- 新增进入自动检测更新功能\n- 优化底部导航图标及交互细节"
 }
