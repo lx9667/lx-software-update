@@ -1,17 +1,17 @@
 {
-  "configVersion": "1.0.3",
+  "configVersion": "1.0.41",
   "avatar": {
     "url": "https://i.postimg.cc/zvDhFB3j/image-download-1777724614509.jpg",
     "enabled": true
   },
   "avatarStyle": {
-    "width": "80px",
-    "height": "80px",
-    "borderRadius": "50%",
-    "border": "2px solid transparent",
-    "boxShadow": "0 0 15px rgba(0, 255, 255, 0.6), 0 0 30px rgba(0, 255, 255, 0.4)",
-    "background": "linear-gradient(135deg, #00FFAA, #00AAFF) border-box"
-  },
+  "width": "80px",
+  "height": "80px",
+  "borderRadius": "50%",
+  "border": "1px solid rgba(255,255,255,0.4)",
+  "boxShadow": "0 8px 20px rgba(0,0,0,0.3)",
+  "background": "rgba(255,255,255,0.1)"
+  }
   "theme": {
     "titleGradient": "linear-gradient(90deg, #FF6B6B, #4ECDC4, #FFE66D, #FF6B6B)",
     "titleAnimation": "flowGradient 8s ease-in-out infinite",
