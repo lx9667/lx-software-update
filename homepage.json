@@ -1,30 +1,20 @@
 {
-  "configVersion": "1.0.45",
+  "configVersion": "1.0.50",
   "avatar": {
     "url": "https://i.postimg.cc/Ssyz7svz/image-download-1777726634805.jpg",
     "enabled": true
   },
+  "avatarStyle": {
+    "width": "80px",
+    "height": "80px",
+    "borderRadius": "50%",
+    "border": "2px solid #00aaff",
+    "boxShadow": "0 0 12px #00aaff, 0 0 25px #0077cc"
+  },
   "theme": {
     "titleGradient": "linear-gradient(90deg, #FF6B6B, #4ECDC4, #FFE66D, #FF6B6B)",
-    "titleAnimation": "flowGradient 8s ease-in-out infinite",
-    "primaryColor": "#5e8eff",
-    "bgColor": "#0f1217",
-    "cardBg": "#1e242c",
-    "cardBg2": "#151a22",
-    "textColor": "#e8edf2",
-    "textMuted": "#8e9eae",
-    "borderRadiusSm": "1rem",
-    "borderRadiusMd": "1.5rem",
-    "blurAmount": "20px"
+    "titleAnimation": "flowGradient 8s ease-in-out infinite"
   },
-  "avatarStyle": {
-  "width": "80px",
-  "height": "80px",
-  "borderRadius": "50%",
-  "border": "2px solid transparent",
-  "background": "linear-gradient(white, white) padding-box, linear-gradient(135deg, #c084fc, #8b5cf6) border-box",
-  "boxShadow": "0 0 20px rgba(139,92,246,0.6)"
-  }
   "actionBtns": [
     {
       "label": "加入群聊",
@@ -41,28 +31,39 @@
     {
       "name": "球球大作战公益",
       "icon": "sports_esports",
+      "iconImg": "",
       "url": "https://drive.uc.cn/s/7a6694a1a5934?public=1"
     },
     {
       "name": "影视大全",
       "icon": "live_tv",
+      "iconImg": "",
       "url": "https://drive.uc.cn/s/da6c2b9a5f944?public=1"
     },
     {
       "name": "实用软件",
       "icon": "build",
+      "iconImg": "",
       "url": "https://drive.uc.cn/s/1231003cadac4?public=1"
     },
     {
       "name": "其他游戏坡解",
       "icon": "extension",
+      "iconImg": "",
       "url": "https://drive.uc.cn/s/003d98c4f3894?public=1"
     },
     {
       "name": "音乐&阅读",
       "icon": "menu_book",
+      "iconImg": "",
       "url": "https://drive.uc.cn/s/628a7deec8744?public=1"
     }
   ],
-  "footerNote": "⚡ 持续更新 &nbsp;|&nbsp; 仅供学习交流"
+  "footerNote": "⚡ 持续更新 &nbsp;|&nbsp; 仅供学习交流",
+  "myPage": {
+    "changelog": "<div class='changelog-entry'><strong>v2.4.1 (2025-05-02)</strong><br>• 全新UI设计，毛玻璃质感<br>• 远程头像/卡片配置支持<br>• 现代化个人中心</div><div class='changelog-entry'><strong>v2.3.4</strong><br>• 自动更新检测功能<br>• 优化首页提示</div>",
+    "userAgreement": "<p><strong>更新日期：2025年5月</strong></p><p>本平台内的一切资源均为网络提供，仅用于学习交流，请勿用于任何非法、商业用途。用户使用本应用造成的一切后果完全由用户承担。若有侵犯了您的权益，请联系开发者（lx）删除。</p><p>我们有权随时修改协议，暂停或终止服务，不因此对用户承担任何责任或后果。</p><p><strong>联系我们</strong><br>QQ群：1097606473</p><p>若您继续该软件（lx资源库），即表示您已阅读、理解并同意接受本协议的全部内容。</p>",
+    "privacyPolicy": "<p><strong>更新日期：2025年5月</strong></p><p>我们重视您的隐私。本应用不会主动收集您的个人信息，所有资源获取、使用均在本客户端完成。我们不会向第三方分享任何用户数据。</p><p>您在使用过程中产生的本地记录仅保存在您的设备中。如您有任何隐私相关问题，可通过QQ群联系我们。</p>",
+    "about": "<p><strong>LX资源库</strong> 版本 2.4.1</p><p>一个干净、实用的资源分享平台。</p><p>© 2025 LX资源库 | QQ群：1097606473</p>"
+  }
 }
