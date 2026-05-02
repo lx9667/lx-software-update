@@ -1,25 +1,21 @@
 {
-  "configVersion": "1.0.50",
+  "configVersion": "1.0.52",
   "avatar": {
-    "url": "https://i.postimg.cc/Ssyz7svz/image-download-1777726634805.jpg",
+    "url": "https://i.postimg.cc/d3j1Qkc0/image-download-1777726634805.jpg",
     "enabled": true
   },
   "avatarStyle": {
     "width": "80px",
     "height": "80px",
     "borderRadius": "50%",
-    "border": "2px solid #00aaff",
-    "boxShadow": "0 0 12px #00aaff, 0 0 25px #0077cc"
-  },
-  "theme": {
-    "titleGradient": "linear-gradient(90deg, #FF6B6B, #4ECDC4, #FFE66D, #FF6B6B)",
-    "titleAnimation": "flowGradient 8s ease-in-out infinite"
+    "border": "1.5px solid #e0e0e0",
+    "boxShadow": "0 4px 12px rgba(0,0,0,0.08)"
   },
   "actionBtns": [
     {
       "label": "加入群聊",
       "icon": "group",
-      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=m3rjbaW0yM0uMRWBloEORrFF9AWKldGaZnBK0T15ttTc8ixsAMbEMjoVrnE%2BYmwn&busi_data=eyJncm91cENvZGUiOiIxMDk3NjA2NDczIiwidG9rZW4iOiI5c01oNHNHcjd5RTJRQ2JJemJTNkRGZFgrSkkxc0FQenRhZG9SbG05K2l0QTBUWUFMbzUxN3VKaEdJME5RNUFUIiwidWluIjoiMzc4NTYzNDA3NSJ9&data=Sx8mPLJYuXG5qsTtENUy3c9Bd2M11zSit_TLyzCnQCKudO1anw1bE3YmMS9MqfEvNhCrQLjF1VWuxgGpM2CwVg&svctype=4&tempid=h5_group_info"
+      "url": "https://qun.qq.com/universal-share/share?...（请替换为您的真实群链接）"
     },
     {
       "label": "赞赏",
@@ -59,11 +55,11 @@
       "url": "https://drive.uc.cn/s/628a7deec8744?public=1"
     }
   ],
-  "footerNote": "⚡ 持续更新 &nbsp;|&nbsp; 仅供学习交流",
+  "footerNote": "⚡ 持续更新 | 仅供学习交流",
   "myPage": {
-    "changelog": "<div class='changelog-entry'><strong>v2.4.1 (2025-05-02)</strong><br>• 全新UI设计，毛玻璃质感<br>• 远程头像/卡片配置支持<br>• 现代化个人中心</div><div class='changelog-entry'><strong>v2.3.4</strong><br>• 自动更新检测功能<br>• 优化首页提示</div>",
-    "userAgreement": "<p><strong>更新日期：2025年5月</strong></p><p>本平台内的一切资源均为网络提供，仅用于学习交流，请勿用于任何非法、商业用途。用户使用本应用造成的一切后果完全由用户承担。若有侵犯了您的权益，请联系开发者（lx）删除。</p><p>我们有权随时修改协议，暂停或终止服务，不因此对用户承担任何责任或后果。</p><p><strong>联系我们</strong><br>QQ群：1097606473</p><p>若您继续该软件（lx资源库），即表示您已阅读、理解并同意接受本协议的全部内容。</p>",
-    "privacyPolicy": "<p><strong>更新日期：2025年5月</strong></p><p>我们重视您的隐私。本应用不会主动收集您的个人信息，所有资源获取、使用均在本客户端完成。我们不会向第三方分享任何用户数据。</p><p>您在使用过程中产生的本地记录仅保存在您的设备中。如您有任何隐私相关问题，可通过QQ群联系我们。</p>",
+    "changelog": "<div class='changelog-entry'><strong>v2.4.1 (2025-05-02)</strong><br>• 全新UI设计，毛玻璃质感<br>• 远程配置支持，实时更新<br>• 优化加载速度与体验</div><div class='changelog-entry'><strong>v2.3.4</strong><br>• 新增自动更新检测<br>• 优化资源卡片显示</div>",
+    "userAgreement": "<p><strong>用户协议</strong></p><p>更新日期：2025年5月</p><p>1. 本平台所有资源均来源于网络，仅供学习交流使用，严禁用于任何商业或非法用途。</p><p>2. 用户使用本软件所产生的一切后果由用户自行承担，开发者不承担任何责任。</p><p>3. 如果您是版权方，认为本站内容侵犯了您的合法权益，请联系我们（QQ群：1097606473），我们将在核实后尽快处理。</p><p>4. 我们保留随时修改本协议的权利，修改后的协议将在软件内公布，不另行通知。</p><p>5. 继续使用本软件即表示您已阅读、理解并同意本协议的全部内容。</p>",
+    "privacyPolicy": "<p><strong>隐私政策</strong></p><p>更新日期：2025年5月</p><p>1. LX资源库非常重视您的隐私。本应用不会主动收集、存储或分享您的任何个人信息。</p><p>2. 所有资源链接及配置文件均从远程服务器获取，不涉及用户隐私数据上传。</p><p>3. 您在使用过程中产生的本地缓存（如配置文件）仅保存在您的设备中，我们无法访问。</p><p>4. 本应用不包含任何第三方跟踪代码或统计工具。</p><p>5. 如果您有任何隐私相关问题，请通过QQ群（1097606473）与我们联系。</p>",
     "about": "<p><strong>LX资源库</strong> 版本 2.4.1</p><p>一个干净、实用的资源分享平台。</p><p>© 2025 LX资源库 | QQ群：1097606473</p>"
   }
 }
