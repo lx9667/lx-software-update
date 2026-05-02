@@ -1,7 +1,12 @@
 {
   "configVersion": "1.0.0",
-  "theme": {"titleGradient": "linear-gradient(90deg, #FF6B6B, #4ECDC4, #FFE66D, #FF6B6B)",
-"titleAnimation": "flowGradient 8s ease-in-out infinite"
+  "avatar": {
+    "url": "https://i.postimg.cc/gjJBxGq9/Image-1776332239361-911.jpg",
+    "enabled": true
+  },
+  "theme": {
+    "titleGradient": "linear-gradient(90deg, #FF6B6B, #4ECDC4, #FFE66D, #FF6B6B)",
+    "titleAnimation": "flowGradient 8s ease-in-out infinite",
     "primaryColor": "#5e8eff",
     "bgColor": "#0f1217",
     "cardBg": "#1e242c",
