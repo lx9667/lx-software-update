@@ -15,7 +15,7 @@
     {
       "label": "加入群聊",
       "icon": "group",
-      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=..."
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=你的真实key"
     },
     {
       "label": "赞赏",
