@@ -1,6 +1,7 @@
 {
   "configVersion": "1.0.0",
-  "theme": {
+  "theme": {"titleGradient": "linear-gradient(90deg, #FF6B6B, #4ECDC4, #FFE66D, #FF6B6B)",
+"titleAnimation": "flowGradient 8s ease-in-out infinite"
     "primaryColor": "#5e8eff",
     "bgColor": "#0f1217",
     "cardBg": "#1e242c",
