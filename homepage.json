@@ -15,7 +15,7 @@
     {
       "label": "加入群聊",
       "icon": "group",
-      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=OJGpIy74isYVbP52AWDha8Sqs5%2FVXAKzu2D3hCYtruXarMV0wZiYEIMiHv%2BZGW5f&busi_data=eyJncm91cENvZGUiOiIxMDk3NjA2NDczIiwidG9rZW4iOiIvbWJKWWxYSE5Zd3hFSEJZQzYzdVBHRWNmY0NnUVg2Zld6cTZ0b05kQmVXS2taRngwcFM0OUdvdDh3MU5JMnFoIiwidWluIjoiMzk5NTQyNjI4NiJ9&data=H9KJB8yalVZxHtq6R2_KjdP5BZERFZMTMon6WXfPVR1MFgkRf9Dv11NZesLd7r4IcpyCgy9J3dp5ZAQiUpLN_Q&svctype=4&tempid=h5_group_info"
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=..."
     },
     {
       "label": "赞赏",
@@ -50,5 +50,5 @@
       "url": "https://drive.uc.cn/s/628a7deec8744?public=1"
     }
   ],
-  "footerNote": "⚡ 持续更新 &nbsp;|&nbsp; 仅供学习交流，请勿用于任何非法、商业用途"
+  "footerNote": "⚡ 持续更新 &nbsp;|&nbsp; 仅供学习交流"
 }
