@@ -1,0 +1,42 @@
+{
+  "actionBtns": [
+    {
+      "label": "加入群聊",
+      "icon": "group",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=OJGpIy74isYVbP52AWDha8Sqs5%2FVXAKzu2D3hCYtruXarMV0wZiYEIMiHv%2BZGW5f&busi_data=eyJncm91cENvZGUiOiIxMDk3NjA2NDczIiwidG9rZW4iOiIvbWJKWWxYSE5Zd3hFSEJZQzYzdVBHRWNmY0NnUVg2Zld6cTZ0b05kQmVXS2taRngwcFM0OUdvdDh3MU5JMnFoIiwidWluIjoiMzk5NTQyNjI4NiJ9&data=H9KJB8yalVZxHtq6R2_KjdP5BZERFZMTMon6WXfPVR1MFgkRf9Dv11NZesLd7r4IcpyCgy9J3dp5ZAQiUpLN_Q&svctype=4&tempid=h5_group_info"
+    },
+    {
+      "label": "赞赏",
+      "icon": "favorite",
+      "url": "https://drive.uc.cn/s/02e2208e3ac74?public=1"
+    }
+  ],
+  "resources": [
+    {
+      "name": "球球大作战公益",
+      "icon": "sports_esports",
+      "url": "https://drive.uc.cn/s/7a6694a1a5934?public=1"
+    },
+    {
+      "name": "影视大全",
+      "icon": "live_tv",
+      "url": "https://drive.uc.cn/s/da6c2b9a5f944?public=1"
+    },
+    {
+      "name": "实用软件",
+      "icon": "build",
+      "url": "https://drive.uc.cn/s/1231003cadac4?public=1"
+    },
+    {
+      "name": "其他游戏坡解",
+      "icon": "extension",
+      "url": "https://drive.uc.cn/s/003d98c4f3894?public=1"
+    },
+    {
+      "name": "音乐&阅读",
+      "icon": "menu_book",
+      "url": "https://drive.uc.cn/s/628a7deec8744?public=1"
+    }
+  ],
+  "footerNote": "⚡ 持续更新 &nbsp;|&nbsp; 仅供学习交流，请勿用于任何非法、商业用途"
+}
