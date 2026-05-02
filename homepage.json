@@ -1,8 +1,16 @@
 {
-  "configVersion": "1.0.0",
+  "configVersion": "1.0.2",
   "avatar": {
     "url": "https://i.postimg.cc/Ssyz7svz/image-download-1777726634805.jpg",
     "enabled": true
+  },
+  "avatarStyle": {
+    "width": "80px",
+    "height": "80px",
+    "borderRadius": "50%",
+    "border": "2px solid transparent",
+    "boxShadow": "0 0 15px rgba(0, 255, 255, 0.6), 0 0 30px rgba(0, 255, 255, 0.4)",
+    "background": "linear-gradient(135deg, #00FFAA, #00AAFF) border-box"
   },
   "theme": {
     "titleGradient": "linear-gradient(90deg, #FF6B6B, #4ECDC4, #FFE66D, #FF6B6B)",
