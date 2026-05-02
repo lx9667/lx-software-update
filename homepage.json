@@ -1,65 +1,18 @@
 {
-  "configVersion": "1.0.54",
+  "configVersion": "1.0.55",
   "avatar": {
     "url": "https://i.postimg.cc/rF6V39WB/image-download-1777737916102.jpg",
     "enabled": true
   },
   "avatarStyle": {
-  "width": "80px",
-  "height": "80px",
-  "borderRadius": "50%",
-  "border": "1.5px solid #e0e0e0",
-  "boxShadow": "0 4px 12px rgba(0, 0, 0, 0.08)"
-  }
+    "width": "80px",
+    "height": "80px",
+    "borderRadius": "50%",
+    "border": "1.5px solid #e0e0e0",
+    "boxShadow": "0 4px 12px rgba(0, 0, 0, 0.08)"
+  },
   "actionBtns": [
-    {
-      "label": "加入群聊",
-      "icon": "group",
-      "url": "https://qun.qq.com/universal-share/share?...（请替换为您的真实群链接）"
-    },
-    {
-      "label": "赞赏",
-      "icon": "favorite",
-      "url": "https://drive.uc.cn/s/02e2208e3ac74?public=1"
-    }
+    ...
   ],
-  "resources": [
-    {
-      "name": "球球大作战公益",
-      "icon": "sports_esports",
-      "iconImg": "",
-      "url": "https://drive.uc.cn/s/7a6694a1a5934?public=1"
-    },
-    {
-      "name": "影视大全",
-      "icon": "live_tv",
-      "iconImg": "",
-      "url": "https://drive.uc.cn/s/da6c2b9a5f944?public=1"
-    },
-    {
-      "name": "实用软件",
-      "icon": "build",
-      "iconImg": "",
-      "url": "https://drive.uc.cn/s/1231003cadac4?public=1"
-    },
-    {
-      "name": "其他游戏坡解",
-      "icon": "extension",
-      "iconImg": "",
-      "url": "https://drive.uc.cn/s/003d98c4f3894?public=1"
-    },
-    {
-      "name": "音乐&阅读",
-      "icon": "menu_book",
-      "iconImg": "",
-      "url": "https://drive.uc.cn/s/628a7deec8744?public=1"
-    }
-  ],
-  "footerNote": "⚡ 持续更新 | 仅供学习交流",
-  "myPage": {
-    "changelog": "<div class='changelog-entry'><strong>v2.4.1 (2025-05-02)</strong><br>• 全新UI设计，毛玻璃质感<br>• 远程配置支持，实时更新<br>• 优化加载速度与体验</div><div class='changelog-entry'><strong>v2.3.4</strong><br>• 新增自动更新检测<br>• 优化资源卡片显示</div>",
-    "userAgreement": "<p><strong>用户协议</strong></p><p>更新日期：2025年5月</p><p>1. 本平台所有资源均来源于网络，仅供学习交流使用，严禁用于任何商业或非法用途。</p><p>2. 用户使用本软件所产生的一切后果由用户自行承担，开发者不承担任何责任。</p><p>3. 如果您是版权方，认为本站内容侵犯了您的合法权益，请联系我们（QQ群：1097606473），我们将在核实后尽快处理。</p><p>4. 我们保留随时修改本协议的权利，修改后的协议将在软件内公布，不另行通知。</p><p>5. 继续使用本软件即表示您已阅读、理解并同意本协议的全部内容。</p>",
-    "privacyPolicy": "<p><strong>隐私政策</strong></p><p>更新日期：2025年5月</p><p>1. LX资源库非常重视您的隐私。本应用不会主动收集、存储或分享您的任何个人信息。</p><p>2. 所有资源链接及配置文件均从远程服务器获取，不涉及用户隐私数据上传。</p><p>3. 您在使用过程中产生的本地缓存（如配置文件）仅保存在您的设备中，我们无法访问。</p><p>4. 本应用不包含任何第三方跟踪代码或统计工具。</p><p>5. 如果您有任何隐私相关问题，请通过QQ群（1097606473）与我们联系。</p>",
-    "about": "<p><strong>LX资源库</strong> 版本 2.4.1</p><p>一个干净、实用的资源分享平台。</p><p>© 2025 LX资源库 | QQ群：1097606473</p>"
-  }
+  ...
 }
