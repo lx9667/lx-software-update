@@ -1,22 +1,5 @@
 {
   "version": "2.4.1",
-  "downloadUrl": "https://drive.uc.cn/s/38ec1c0d89254?public=1",
-  "updateLog": "- 升级 UI 界面，更新请使用\n- 新增进入自动检测更新功能\n- 优化底部导航图标及交互细节",
-  "resources": [
-    {
-      "name": "球球大作战公益",
-      "icon": "sports_esports",
-      "link": "https://drive.uc.cn/s/7a6694a1a5934?public=1"
-    },
-    {
-      "name": "影视大全",
-      "icon": "live_tv",
-      "link": "https://drive.uc.cn/s/da6c2b9a5f944?public=1"
-    },
-    {
-      "name": "实用软件",
-      "icon": "build",
-      "link": "https://drive.uc.cn/s/1231003cadac4?public=1"
-    }
-  ]
+  "downloadUrl": "https://drive.uc.cn/s/3Be1c0d89254?public=1",
+  "updateLog": "- 升级 UI 界面，更新请使用\n- 新增进入自动检测更新功能\n- 优化底部导航图标及交互细节"
 }
