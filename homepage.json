@@ -1,18 +1,33 @@
 {
-  "configVersion": "1.0.55",
+  "appName": "LX资源库",
   "avatar": {
     "url": "https://i.postimg.cc/rF6V39WB/image-download-1777737916102.jpg",
     "enabled": true
   },
-  "avatarStyle": {
-    "width": "80px",
-    "height": "80px",
-    "borderRadius": "50%",
-    "border": "1.5px solid #e0e0e0",
-    "boxShadow": "0 4px 12px rgba(0, 0, 0, 0.08)"
-  },
   "actionBtns": [
-    ...
+    {
+      "label": "加入群聊",
+      "icon": "group",
+      "url": "https://qun.qq.com/..."
+    },
+    {
+      "label": "赞赏",
+      "icon": "favorite",
+      "url": "https://drive.uc.cn/..."
+    }
   ],
-  ...
+  "resources": [
+    {
+      "name": "球球大作战公益",
+      "icon": "sports_esports",
+      "url": "https://drive.uc.cn/..."
+    }
+  ],
+  "footerNote": "⚡ 持续更新 | 仅供学习交流",
+  "myPage": {
+    "changelog": "<div class='changelog-entry'>...</div>",
+    "userAgreement": "<p><strong>用户协议</strong></p>...",
+    "privacyPolicy": "<p><strong>隐私政策</strong></p>...",
+    "about": "<p><strong>LX资源库</strong> 版本 2.4.1</p>..."
+  }
 }
