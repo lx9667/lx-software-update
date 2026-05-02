@@ -1,15 +1,8 @@
 {
-  "configVersion": "1.0.42",
+  "configVersion": "1.0.43",
   "avatar": {
     "url": "https://i.postimg.cc/Ssyz7svz/image-download-1777726634805.jpg",
     "enabled": true
-  },
-  "avatarStyle": {
-    "width": "80px",
-    "height": "80px",
-    "borderRadius": "50%",
-    "border": "2px solid #5e8eff",
-    "boxShadow": "0 0 15px #5e8eff"
   },
   "theme": {
     "titleGradient": "linear-gradient(90deg, #FF6B6B, #4ECDC4, #FFE66D, #FF6B6B)",
@@ -24,6 +17,13 @@
     "borderRadiusMd": "1.5rem",
     "blurAmount": "20px"
   },
+  "avatarStyle": {
+  "width": "80px",
+  "height": "80px",
+  "borderRadius": "50%",
+  "border": "2px solid #00ffff",
+  "boxShadow": "0 0 15px #00ffff, 0 0 30px #00aa88"
+  }
   "actionBtns": [
     {
       "label": "加入群聊",
