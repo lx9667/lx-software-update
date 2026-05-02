@@ -1,4 +1,5 @@
 {
+  "configVersion": "1.0.0",
   "theme": {
     "primaryColor": "#5e8eff",
     "bgColor": "#0f1217",
