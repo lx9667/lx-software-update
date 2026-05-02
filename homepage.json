@@ -1,5 +1,5 @@
 {
-  "configVersion": "1.0.44",
+  "configVersion": "1.0.45",
   "avatar": {
     "url": "https://i.postimg.cc/Ssyz7svz/image-download-1777726634805.jpg",
     "enabled": true
@@ -18,12 +18,13 @@
     "blurAmount": "20px"
   },
   "avatarStyle": {
-    "width": "80px",
-    "height": "80px",
-    "borderRadius": "50%",
-    "border": "2px solid #00ffff",
-    "boxShadow": "0 0 15px #00ffff, 0 0 30px #00aa88"
-  },
+  "width": "80px",
+  "height": "80px",
+  "borderRadius": "50%",
+  "border": "2px solid transparent",
+  "background": "linear-gradient(white, white) padding-box, linear-gradient(135deg, #c084fc, #8b5cf6) border-box",
+  "boxShadow": "0 0 20px rgba(139,92,246,0.6)"
+  }
   "actionBtns": [
     {
       "label": "加入群聊",
