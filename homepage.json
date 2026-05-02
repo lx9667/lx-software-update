@@ -1,4 +1,15 @@
 {
+  "theme": {
+    "primaryColor": "#5e8eff",
+    "bgColor": "#0f1217",
+    "cardBg": "#1e242c",
+    "cardBg2": "#151a22",
+    "textColor": "#e8edf2",
+    "textMuted": "#8e9eae",
+    "borderRadiusSm": "1rem",
+    "borderRadiusMd": "1.5rem",
+    "blurAmount": "20px"
+  },
   "actionBtns": [
     {
       "label": "加入群聊",
