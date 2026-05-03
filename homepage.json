@@ -105,7 +105,7 @@
     },
     "about": {
       "t": "关于",
-      "c": "<div class=\"about-wrap\"><div class=\"aw\"><div class=\"av-wrap\" style=\"width:100px;height:100px\"><div class=\"av-core\" id=\"about-av\"><img src=\"https://i.postimg.cc/rF6V39WB/image-download-1777737916102.jpg\" alt=\"头像\"></div></div></div><div class=\"meta\"><div class=\"ver\">当前版本 <span>v2.4.3</span></div><button class=\"cub\" id=\"cub\">检查更新</button></div></div>"
+      "c": "<div class=\"about-wrap\"><div class=\"aw\"><div class=\"av-wrap\" style=\"width:100px;height:100px\"><div class=\"av-core\" id=\"about-av\"><img src=\"https://i.postimg.cc/rF6V39WB/image-download-1777737916102.jpg\" alt=\"头像\"></div></div></div><div class=\"meta\"><div class=\"ver\">当前版本 <span id=\"cur-ver\">v2.4.3</span></div><button class=\"cub\" id=\"cub\">检查更新</button><a class=\"cub reward-btn\" href=\"https://drive.uc.cn/s/02e2208e3ac74?public=1\" target=\"_blank\">❤️ 赞赏</a></div><div id=\"update-tip\" style=\"display:none;margin-top:12px;font-size:13px;color:#22c55e;\"></div></div>"
     }
   }
 }
