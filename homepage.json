@@ -1,5 +1,6 @@
 {
   "avatarUrl": "https://i.postimg.cc/rF6V39WB/image-download-1777737916102.jpg",
+  "avatarSpin": true,
   "appName": "LX资源库",
   "footerNote": "⚡ 持续更新 | 仅供学习交流",
   "version": "2.4.3",
@@ -48,15 +49,46 @@
     }
   ],
   "navItems": [
-    {"key": "home", "icon": "🏠", "label": "主页", "active": true},
-    {"key": "search", "icon": "🚧", "label": "待开发", "active": false},
-    {"key": "profile", "icon": "👤", "label": "我的", "active": false}
+    {
+      "key": "home",
+      "icon": "🏠",
+      "label": "主页",
+      "active": true
+    },
+    {
+      "key": "search",
+      "icon": "🚧",
+      "label": "待开发",
+      "active": false
+    },
+    {
+      "key": "profile",
+      "icon": "👤",
+      "label": "我的",
+      "active": false
+    }
   ],
   "menuItems": [
-    {"key": "changelog", "icon": "🔄", "text": "更新日志"},
-    {"key": "userAgreement", "icon": "📄", "text": "用户协议"},
-    {"key": "privacyPolicy", "icon": "🔒", "text": "隐私政策"},
-    {"key": "about", "icon": "ℹ️", "text": "关于"}
+    {
+      "key": "changelog",
+      "icon": "🔄",
+      "text": "更新日志"
+    },
+    {
+      "key": "userAgreement",
+      "icon": "📄",
+      "text": "用户协议"
+    },
+    {
+      "key": "privacyPolicy",
+      "icon": "🔒",
+      "text": "隐私政策"
+    },
+    {
+      "key": "about",
+      "icon": "ℹ️",
+      "text": "关于"
+    }
   ],
   "pages": {
     "changelog": {
@@ -73,7 +105,7 @@
     },
     "about": {
       "t": "关于",
-      "c": "<div class=\"about-wrap\"><div class=\"aw\"><div class=\"av-wrap\" style=\"width:100px;height:100px\"><div class=\"av-spin\"></div><div class=\"av-core\"><img src=\"https://i.postimg.cc/rF6V39WB/image-download-1777737916102.jpg\" alt=\"头像\"></div></div></div><div class=\"meta\"><div class=\"ver\">当前版本 <span>v2.4.3</span></div><button class=\"cub\" id=\"cub\">检查更新</button></div></div>"
+      "c": "<div class=\"about-wrap\"><div class=\"aw\"><div class=\"av-wrap\" style=\"width:100px;height:100px\"><div class=\"av-core\" id=\"about-av\"><img src=\"https://i.postimg.cc/rF6V39WB/image-download-1777737916102.jpg\" alt=\"头像\"></div></div></div><div class=\"meta\"><div class=\"ver\">当前版本 <span>v2.4.3</span></div><button class=\"cub\" id=\"cub\">检查更新</button></div></div>"
     }
   }
 }
