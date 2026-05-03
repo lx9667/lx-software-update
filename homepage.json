@@ -73,7 +73,7 @@
     },
     "about": {
       "t": "关于",
-      "c": "<div class=\"about-wrap\"><div class=\"aw\"><div class=\"av-wrap\" style=\"width:100px;height:100px\"><div class=\"av-spin\"></div><div class=\"av-core\"><img src=\"https://i.postimg.cc/rF6V39WB/image-download-1777737916102.jpg\" alt=\"头像\"></div></div></div><div class=\"meta\"><div class=\"ver\">当前版本 <span>v2.4.3</span></div><button class=\"cub\" id=\"cub\">检查更新</button></div><div id=\"aum\" class=\"about-md\"><div class=\"about-mdb\"><h4>🎉 发现新版本</h4><div class=\"about-ver\">最新版本 <span id=\"auv\">v0.0.0</span></div><div class=\"about-log\" id=\"aub\"><p>系统优化与问题修复，提升整体稳定性与使用体验。</p></div><div class=\"about-tip\">检测到新版本，请立即前往更新以获得最佳体验</div><div class=\"about-mf\"><button class=\"about-mb about-later\" id=\"aul\">稍后更新</button><button class=\"about-mb about-up\" id=\"auo\">立即更新</button></div></div></div><div class=\"info\"><div class=\"dev\">开发者：LX</div><div class=\"desc\">前端实用工具奉献者<br>持续开发应用</div><div class=\"qt\">一言</div><div class=\"qa\">星星之火，可以燎原</div></div></div>"
+      "c": "<div class=\"about-wrap\"><div class=\"aw\"><div class=\"av-wrap\" style=\"width:100px;height:100px\"><div class=\"av-spin\"></div><div class=\"av-core\"><img src=\"https://i.postimg.cc/rF6V39WB/image-download-1777737916102.jpg\" alt=\"头像\"></div></div></div><div class=\"meta\"><div class=\"ver\">当前版本 <span>v2.4.3</span></div><button class=\"cub\" id=\"cub\">检查更新</button></div></div>"
     }
   }
 }
