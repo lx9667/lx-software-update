@@ -48,51 +48,20 @@
     }
   ],
   "navItems": [
-    {
-      "key": "home",
-      "icon": "🏠",
-      "label": "主页",
-      "active": true
-    },
-    {
-      "key": "search",
-      "icon": "🚧",
-      "label": "待开发",
-      "active": false
-    },
-    {
-      "key": "profile",
-      "icon": "👤",
-      "label": "我的",
-      "active": false
-    }
+    {"key": "home", "icon": "🏠", "label": "主页", "active": true},
+    {"key": "search", "icon": "🚧", "label": "待开发", "active": false},
+    {"key": "profile", "icon": "👤", "label": "我的", "active": false}
   ],
   "menuItems": [
-    {
-      "key": "changelog",
-      "icon": "🔄",
-      "text": "更新日志"
-    },
-    {
-      "key": "userAgreement",
-      "icon": "📄",
-      "text": "用户协议"
-    },
-    {
-      "key": "privacyPolicy",
-      "icon": "🔒",
-      "text": "隐私政策"
-    },
-    {
-      "key": "about",
-      "icon": "ℹ️",
-      "text": "关于"
-    }
+    {"key": "changelog", "icon": "🔄", "text": "更新日志"},
+    {"key": "userAgreement", "icon": "📄", "text": "用户协议"},
+    {"key": "privacyPolicy", "icon": "🔒", "text": "隐私政策"},
+    {"key": "about", "icon": "ℹ️", "text": "关于"}
   ],
   "pages": {
     "changelog": {
       "t": "更新日志",
-      "c": "<div class=\"pb\"><span class=\"vt\">v2.4.3</span><ul><li>新增自动更新渲染页面</li><li>UI全面优化，大大增加使用便利、轻松感</li><li>预计下个版本2.4.4加在线功能</li></ul></div>"
+      "c": "<div class=\"pb\"><span class=\"vt\">v2.4.3</span><ul><li>新增自动更新渲染页面</li><li>UI全面优化，提升使用体验</li><li>预计下个版本增加在线功能</li></ul></div>"
     },
     "userAgreement": {
       "t": "用户协议",
@@ -104,7 +73,7 @@
     },
     "about": {
       "t": "关于",
-      "c": "<div style=\"text-align:center\"><div style=\"position:relative;width:110px;height:110px;margin:0 auto 1.5rem;animation:glow-pulse 2s ease-in-out infinite\"><div style=\"position:absolute;inset:0;border-radius:50%;padding:3px;background:conic-gradient(from 0deg,#00f0ff,#7000ff,#ff0099,#00f0ff);animation:spin 3s linear infinite;filter:blur(.5px)\"></div><div style=\"position:absolute;inset:6px;border-radius:50%;padding:2px;background:conic-gradient(from 180deg,#ff0099,#7000ff,#00f0ff,#ff0099);animation:spin 5s linear infinite reverse;opacity:.8\"></div><div style=\"position:absolute;inset:12px;border-radius:50%;background:linear-gradient(135deg,rgba(0,240,255,.3),rgba(112,0,255,.3),rgba(255,0,153,.3));padding:2px\"></div><div style=\"position:absolute;inset:14px;border-radius:50%;background:#000;display:flex;align-items:center;justify-content:center;overflow:hidden;box-shadow:inset 0 0 20px rgba(0,240,255,.2),0 0 30px rgba(112,0,255,.4)\"><img src=\"https://i.postimg.cc/rF6V39WB/image-download-1777737916102.jpg\" style=\"width:100%;height:100%;object-fit:cover;border-radius:50%\" alt=\"头像\"></div></div><div style=\"position:absolute;bottom:0;right:0;width:26px;height:26px;background:linear-gradient(135deg,#f59e0b,#f97316);border:3px solid #000;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:800;color:#fff;z-index:10\">V</div></div><button class=\"cub\" id=\"cub\" style=\"display:inline-block;background:linear-gradient(135deg,#00f0ff,#7000ff);border:none;padding:.5rem 1.2rem;border-radius:2rem;color:#fff;font-size:.8rem;font-weight:600;cursor:pointer;transition:all .25s;margin-bottom:1rem;box-shadow:0 0 15px rgba(0,240,255,.3)\">🔍 检查更新</button><div style=\"font-size:.85rem;color:#8e9aaf;margin-bottom:.8rem\">版本号 v2.4.3</div><p style=\"font-size:1.1rem;color:#e2e8f0;margin-bottom:1rem\"><strong>开发者：LX</strong></p><p style=\"font-size:.85rem;color:#8e9aaf;margin-bottom:1.8rem\">前端实用工具奉献者<br>持续开发应用</p><p style=\"font-size:.9rem;color:#bfdbfe;margin-bottom:.5rem\">一言</p><p style=\"font-size:.85rem;color:#a78bfa\">接受自我，自制自强</p></div><style>@keyframes spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}@keyframes glow-pulse{0%,100%{filter:drop-shadow(0 0 8px rgba(0,240,255,.6)) drop-shadow(0 0 16px rgba(112,0,255,.4))}50%{filter:drop-shadow(0 0 16px rgba(0,240,255,.8)) drop-shadow(0 0 32px rgba(112,0,255,.6))}}</style>"
+      "c": "<div class=\"about-wrap\"><div class=\"aw\"><div class=\"av-wrap\" style=\"width:100px;height:100px\"><div class=\"av-spin\"></div><div class=\"av-core\"><img src=\"https://i.postimg.cc/rF6V39WB/image-download-1777737916102.jpg\" alt=\"头像\"></div></div></div><div class=\"meta\"><div class=\"ver\">当前版本 <span>v2.4.3</span></div><button class=\"cub\" id=\"cub\">检查更新</button></div><div id=\"aum\" class=\"about-md\"><div class=\"about-mdb\"><h4>发现新版本</h4><div class=\"about-ver\">最新版本 <span id=\"auv\">v2.4.4</span></div><div class=\"about-log\" id=\"aub\"></div><div class=\"about-tip\">检测到新版本，请立即前往更新以获得最佳体验</div><div class=\"about-mf\"><button class=\"about-mb about-later\" id=\"aul\">稍后更新</button><button class=\"about-mb about-up\" id=\"auo\">立即更新</button></div></div></div><div class=\"info\"><div class=\"dev\">开发者：LX</div><div class=\"desc\">前端实用工具奉献者<br>持续开发应用</div><div class=\"qt\">一言</div><div class=\"qa\">星星之火，可以燎原</div></div></div>"
     }
   }
 }
