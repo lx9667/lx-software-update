@@ -3,19 +3,6 @@
   "avatarSpin": false,
   "appName": "LX资源库",
   "footerNote": "⚡ 持续更新 | 仅供学习交流",
-  "version": "2.4.3",
-  "actionButtons": [
-    {
-      "icon": "👥",
-      "text": "加入群聊",
-      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=vtCKvOQaQodbr2rfxM9PGRNivM7BBpkpcbBQ2a6QcuJkChcNOfugnqMk5sIVVYRd&busi_data=eyJncm91cENvZGUiOiIxMDk3NjA2NDczIiwidG9rZW4iOiIva3pOQ0pCNWJxSEF6L2VUbjdEL1ozUG1MUWNDUlJQa3I0OFZJNEVYcVVyQnRzdzJYa1hjQ0ZCR2VhM0tmdGZ0IiwidWluIjoiMzUxNjU4MjA2NyJ9&data=tb875VsiomLllyXpSvrkVdFhPGV-25OaIMXklZXQGdkwxiBRmKs0_MPwbWla908fpn-Qa7bL3suTls62Gq_Upw&svctype=4&tempid=h5_group_info"
-    },
-    {
-      "icon": "❤️",
-      "text": "赞赏",
-      "url": "https://drive.uc.cn/s/02e2208e3ac74?public=1"
-    }
-  ],
   "resources": [
     {
       "name": "球球大作战公益",
