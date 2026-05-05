@@ -43,9 +43,9 @@
       "active": true
     },
     {
-      "key": "search",
-      "icon": "🚧",
-      "label": "待开发",
+      "key": "tools",
+      "icon": "🛠️",
+      "label": "工具",
       "active": false
     },
     {
