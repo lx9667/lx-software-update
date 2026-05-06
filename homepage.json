@@ -3,6 +3,12 @@
   "avatarSpin": false,
   "appName": "资源星",
   "footerNote": "⚡ 持续更新 | 仅供学习交流",
+  "announcement": {
+    "enabled": true,
+    "title": "🎉 系统维护通知",
+    "content": "服务器将于今晚 23:00 进行维护升级，预计耗时 2 小时，期间部分功能可能无法使用。",
+    "btnText": "我知道了"
+  },
   "resources": [
     {
       "name": "球球大作战公益",
