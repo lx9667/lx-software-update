@@ -43,9 +43,9 @@
       "active": true
     },
     {
-      "key": "tools",
-      "icon": "🛠️",
-      "label": "工具",
+      "key": "search",
+      "icon": "🚧",
+      "label": "待开发",
       "active": false
     },
     {
@@ -80,7 +80,7 @@
   "pages": {
     "changelog": {
       "t": "更新日志",
-      "c": "<div class=\"pb\"><span class=\"vt\">v2.4.3</span><ul><li>新增工具页面：天气查询、日历、节日总览</li><li>UI全面优化，提升使用体验</li></ul></div>"
+      "c": "<div class=\"pb\"><span class=\"vt\">v2.4.4</span><ul><li>新增工具页面功能</li><li>天气/日历/节日总览</li><li>UI全面优化</li></ul></div>"
     },
     "userAgreement": {
       "t": "用户协议",
@@ -92,7 +92,19 @@
     },
     "about": {
       "t": "关于",
-      "c": "<div class=\"about-wrap\"><div class=\"aw\"><div class=\"av-wrap\" style=\"width:100px;height:100px\"><div class=\"av-core\" id=\"about-av\"><img src=\"https://i.postimg.cc/c4G60cst/1f7284cf57ad0a0b54d069102ee8c7981777902067037.jpg\" alt=\"头像\"></div></div></div><div class=\"meta\"><div class=\"ver\">当前版本 <span id=\"cur-ver\">v2.4.3</span></div><button class=\"cub\" id=\"cub\">检查更新</button><a class=\"cub reward-btn\" href=\"https://drive.uc.cn/s/02e2208e3ac74?public=1\" target=\"_blank\">❤️ 赞赏</a></div><div id=\"update-tip\" style=\"display:none;margin-top:12px;font-size:13px;color:#22c55e;\"></div></div>"
+      "c": "<div class=\"about-wrap\"><div class=\"aw\"><div class=\"av-wrap\" style=\"width:100px;height:100px\"><div class=\"av-core\" id=\"about-av\"><img src=\"\" alt=\"头像\"></div></div></div><div class=\"meta\"><div class=\"ver\">当前版本 <span id=\"cur-ver\">v2.4.4</span></div><button class=\"cub\" id=\"cub\">检查更新</button><a class=\"cub reward-btn\" href=\"https://drive.uc.cn/s/02e2208e3ac74?public=1\" target=\"_blank\">❤️ 赞赏</a></div><div id=\"update-tip\" style=\"display:none;margin-top:12px;font-size:13px;color:#22c55e;\"></div></div>"
+    }
+  },
+  "tools": {
+    "weather": {
+      "title": "天气查询",
+      "locApi": "https://ipapi.co/json/",
+      "weatherApi": "https://autodev.openspeech.cn/csp/api/v2.1/weather",
+      "defaultCity": "北京"
+    },
+    "calendar": {
+      "title": "日历",
+      "lunarApi": "https://api.vvhan.com/api/lunar"
     }
   }
 }
