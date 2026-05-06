@@ -80,7 +80,7 @@
   "pages": {
     "changelog": {
       "t": "更新日志",
-      "c": "<div class=\"pb\"><span class=\"vt\">v2.4.4</span><ul><li>新增工具页面功能</li><li>天气/日历/节日总览</li><li>UI全面优化</li></ul></div>"
+      "c": "<div class=\"pb\"><span class=\"vt\">v2.4.4</span><ul><li>新增工具页面功能</li><li>天气/日历</li><li>UI全面优化</li></ul></div>"
     },
     "userAgreement": {
       "t": "用户协议",
@@ -98,12 +98,14 @@
   "tools": {
     "weather": {
       "title": "天气查询",
-      "locApi": "https://ipapi.co/json/",
-      "weatherApi": "https://autodev.openspeech.cn/csp/api/v2.1/weather",
+      "icon": "🌤️",
+      "locApi": "https://api.vvhan.com/api/ipInfo",
+      "weatherApi": "https://api.vvhan.com/api/weather",
       "defaultCity": "北京"
     },
     "calendar": {
       "title": "日历",
+      "icon": "📅",
       "lunarApi": "https://api.vvhan.com/api/lunar"
     }
   }
