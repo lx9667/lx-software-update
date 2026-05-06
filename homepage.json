@@ -36,51 +36,20 @@
     }
   ],
   "navItems": [
-    {
-      "key": "home",
-      "icon": "🏠",
-      "label": "主页",
-      "active": true
-    },
-    {
-      "key": "search",
-      "icon": "🚧",
-      "label": "待开发",
-      "active": false
-    },
-    {
-      "key": "profile",
-      "icon": "👤",
-      "label": "我的",
-      "active": false
-    }
+    {"key": "home", "icon": "🏠", "label": "主页", "active": true},
+    {"key": "search", "icon": "🚧", "label": "待开发", "active": false},
+    {"key": "profile", "icon": "👤", "label": "我的", "active": false}
   ],
   "menuItems": [
-    {
-      "key": "changelog",
-      "icon": "🔄",
-      "text": "更新日志"
-    },
-    {
-      "key": "userAgreement",
-      "icon": "📄",
-      "text": "用户协议"
-    },
-    {
-      "key": "privacyPolicy",
-      "icon": "🔒",
-      "text": "隐私政策"
-    },
-    {
-      "key": "about",
-      "icon": "ℹ️",
-      "text": "关于"
-    }
+    {"key": "changelog", "icon": "🔄", "text": "更新日志"},
+    {"key": "userAgreement", "icon": "📄", "text": "用户协议"},
+    {"key": "privacyPolicy", "icon": "🔒", "text": "隐私政策"},
+    {"key": "about", "icon": "ℹ️", "text": "关于"}
   ],
   "pages": {
     "changelog": {
       "t": "更新日志",
-      "c": "<div class=\"pb\"><span class=\"vt\">v2.4.4</span><ul><li>新增工具页面功能</li><li>天气/日历</li><li>UI全面优化</li></ul></div>"
+      "c": "<div class=\"pb\"><span class=\"vt\">v2.4.4</span><ul><li>UI全面优化</li></ul></div>"
     },
     "userAgreement": {
       "t": "用户协议",
@@ -93,20 +62,6 @@
     "about": {
       "t": "关于",
       "c": "<div class=\"about-wrap\"><div class=\"aw\"><div class=\"av-wrap\" style=\"width:100px;height:100px\"><div class=\"av-core\" id=\"about-av\"><img src=\"\" alt=\"头像\"></div></div></div><div class=\"meta\"><div class=\"ver\">当前版本 <span id=\"cur-ver\">v2.4.4</span></div><button class=\"cub\" id=\"cub\">检查更新</button><a class=\"cub reward-btn\" href=\"https://drive.uc.cn/s/02e2208e3ac74?public=1\" target=\"_blank\">❤️ 赞赏</a></div><div id=\"update-tip\" style=\"display:none;margin-top:12px;font-size:13px;color:#22c55e;\"></div></div>"
-    }
-  },
-  "tools": {
-    "weather": {
-      "title": "天气查询",
-      "icon": "🌤️",
-      "locApi": "https://api.vvhan.com/api/ipInfo",
-      "weatherApi": "https://api.vvhan.com/api/weather",
-      "defaultCity": "北京"
-    },
-    "calendar": {
-      "title": "日历",
-      "icon": "📅",
-      "lunarApi": "https://api.vvhan.com/api/lunar"
     }
   }
 }
