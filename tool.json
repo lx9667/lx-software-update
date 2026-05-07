@@ -1,0 +1,20 @@
+{
+  "toolCategories": [
+    {
+      "title": "AI类",
+      "items": [
+        {"name": "豆包", "url": "https://www.doubao.com", "tag": "AI类"},
+        {"name": "DeepSeek", "url": "https://chat.deepseek.com", "tag": "AI类"},
+        {"name": "Kimi", "url": "https://kimi.moonshot.cn", "tag": "AI类"}
+      ]
+    },
+    {
+      "title": "工具箱",
+      "items": [
+        {"name": "一个木涵", "url": "https://ol.woobx.cn", "tag": "工具箱"},
+        {"name": "即时工具", "url": "https://www.67tool.com", "tag": "工具箱"}
+      ]
+    }
+  ]
+}
+
