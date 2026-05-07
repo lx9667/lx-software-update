@@ -35,48 +35,9 @@
       "svg": "<path d=\"M2 12s3-7 10-7 10 7 10 7-3 7-10 7S2 12 2 12z\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>"
     }
   ],
-  "toolCategories": [
-    {
-      "title": "🤖 AI 助手",
-      "items": [
-        {"name":"豆包","icon":"🤖","color":"#3b82f6","desc":"字节AI聊天写作绘画全能","url":"https://www.doubao.com","tag":"免费"},
-        {"name":"DeepSeek","icon":"🔍","color":"#14b8a6","desc":"深度推理编程神器","url":"https://chat.deepseek.com","tag":"免费"},
-        {"name":"Kimi","icon":"🌙","color":"#8b5cf6","desc":"长文本专家","url":"https://kimi.moonshot.cn","tag":"免费"},
-        {"name":"文心一言","icon":"✍️","color":"#ef4444","desc":"百度AI助手","url":"https://yiyan.baidu.com","tag":"免费"},
-        {"name":"智谱清言","icon":"📦","color":"#6366f1","desc":"GLM大模型智能助手","url":"https://chatglm.cn","tag":"免费"}
-      ]
-    },
-    {
-      "title": "🎨 AI 绘画",
-      "items": [
-        {"name":"通义万相","icon":"🎨","color":"#f97316","desc":"阿里AI绘画设计工具","url":"https://tongyi.aliyun.com/wanxiang","tag":"免费"},
-        {"name":"即梦AI","icon":"✨","color":"#ec4899","desc":"AI绘图视频创作","url":"https://jimeng.jianying.com","tag":"免费"}
-      ]
-    },
-    {
-      "title": "🔊 AI 语音",
-      "items": [
-        {"name":"讯飞星火","icon":"🔥","color":"#06b6d4","desc":"语音转写翻译全能","url":"https://xinghuo.xfyun.cn","tag":"免费"}
-      ]
-    },
-    {
-      "title": "💻 开发工具",
-      "items": [
-        {"name":"GitHub","icon":"🐙","color":"#333","desc":"代码托管平台","url":"https://github.com","tag":"热门"},
-        {"name":"Vercel","icon":"▲","color":"#000","desc":"前端部署平台","url":"https://vercel.com","tag":"免费"}
-      ]
-    },
-    {
-      "title": "📚 学习资源",
-      "items": [
-        {"name":"菜鸟教程","icon":"📖","color":"#22c55e","desc":"编程基础教程","url":"https://www.runoob.com","tag":"免费"},
-        {"name":"MDN","icon":"🌐","color":"#2563eb","desc":"Web开发文档","url":"https://developer.mozilla.org","tag":"官方"}
-      ]
-    }
-  ],
   "navItems": [
     {"key":"home","icon":"🏠","label":"主页","active":true},
-    {"key":"search","icon":"🚧","label":"待开发","active":false},
+    {"key":"search","icon":"🛠️","label":"工具","active":false},
     {"key":"profile","icon":"👤","label":"我的","active":false}
   ],
   "menuItems": [
