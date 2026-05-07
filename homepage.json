@@ -36,20 +36,51 @@
     }
   ],
   "navItems": [
-    {"key": "home", "icon": "🏠", "label": "主页", "active": true},
-    {"key": "search", "icon": "🚧", "label": "待开发", "active": false},
-    {"key": "profile", "icon": "👤", "label": "我的", "active": false}
+    {
+      "key": "home",
+      "icon": "🏠",
+      "label": "主页",
+      "active": true
+    },
+    {
+      "key": "search",
+      "icon": "🚧",
+      "label": "待开发",
+      "active": false
+    },
+    {
+      "key": "profile",
+      "icon": "👤",
+      "label": "我的",
+      "active": false
+    }
   ],
   "menuItems": [
-    {"key": "changelog", "icon": "🔄", "text": "更新日志"},
-    {"key": "userAgreement", "icon": "📄", "text": "用户协议"},
-    {"key": "privacyPolicy", "icon": "🔒", "text": "隐私政策"},
-    {"key": "about", "icon": "ℹ️", "text": "关于"}
+    {
+      "key": "changelog",
+      "icon": "🔄",
+      "text": "更新日志"
+    },
+    {
+      "key": "userAgreement",
+      "icon": "📄",
+      "text": "用户协议"
+    },
+    {
+      "key": "privacyPolicy",
+      "icon": "🔒",
+      "text": "隐私政策"
+    },
+    {
+      "key": "about",
+      "icon": "ℹ️",
+      "text": "关于"
+    }
   ],
   "pages": {
     "changelog": {
       "t": "更新日志",
-      "c": "<div class=\"pb\"><span class=\"vt\">v2.4.4</span><ul><li>UI全面优化</li></ul></div>"
+      "c": "<div class=\"pb\"><span class=\"vt\">v2.4.4</span><ul><li>新增背景模式切换</li><li>新增工具功能</li><li>优化UI界面更加自然协调</li></ul></div>"
     },
     "userAgreement": {
       "t": "用户协议",
@@ -62,6 +93,40 @@
     "about": {
       "t": "关于",
       "c": "<div class=\"about-wrap\"><div class=\"aw\"><div class=\"av-wrap\" style=\"width:100px;height:100px\"><div class=\"av-core\" id=\"about-av\"><img src=\"\" alt=\"头像\"></div></div></div><div class=\"meta\"><div class=\"ver\">当前版本 <span id=\"cur-ver\">v2.4.4</span></div><button class=\"cub\" id=\"cub\">检查更新</button><a class=\"cub reward-btn\" href=\"https://drive.uc.cn/s/02e2208e3ac74?public=1\" target=\"_blank\">❤️ 赞赏</a></div><div id=\"update-tip\" style=\"display:none;margin-top:12px;font-size:13px;color:#22c55e;\"></div></div>"
+    }
+  },
+  "updateModal": {
+    "styles": {
+      "overlay": "position:fixed;inset:0;background:rgba(0,0,0,.7);backdrop-filter:blur(24px) saturate(1.2);display:none;align-items:center;justify-content:center;z-index:100;opacity:0;transition:opacity .2s ease;",
+      "card": "background:rgba(28,28,30,.85);width:min(280px,85vw);border-radius:24px;padding:26px 20px 20px;position:relative;border:1px solid rgba(255,255,255,.06);box-shadow:0 32px 64px rgba(0,0,0,.4),inset 0 1px 0 rgba(255,255,255,.04);transform:scale(.92);transition:transform .25s cubic-bezier(.34,1.56,.64,1);",
+      "glowBar": "height:2.5px;width:48px;border-radius:2px;margin:0 auto 18px;background:linear-gradient(135deg,#60a5fa,#818cf8);box-shadow:0 0 16px rgba(96,165,250,.25);opacity:.7;",
+      "title": "font-size:17px;font-weight:600;color:#f5f5f7;text-align:center;margin-bottom:12px;letter-spacing:-.3px;font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','PingFang SC',sans-serif;",
+      "verRow": "display:flex;align-items:center;justify-content:center;gap:6px;margin-bottom:6px;",
+      "verLabel": "font-size:10px;color:#8e8e93;text-transform:uppercase;letter-spacing:1px;font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text',sans-serif;",
+      "verValue": "font-size:13px;font-weight:600;color:#60a5fa;font-family:'SF Mono',SFMono-Regular,monospace;",
+      "time": "text-align:center;font-size:10px;color:#636366;margin-bottom:16px;letter-spacing:.3px;font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text',sans-serif;",
+      "divider": "height:1px;margin:0 -4px 16px;background:linear-gradient(90deg,transparent,rgba(255,255,255,.08),transparent);",
+      "sectionTitle": "font-size:11px;font-weight:500;color:#8e8e93;margin-bottom:10px;text-transform:uppercase;letter-spacing:1.5px;font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text',sans-serif;",
+      "contentList": "list-style:none;padding:0;margin-bottom:18px;",
+      "contentItem": "font-size:12px;color:#a1a1a6;line-height:2;padding-left:0;display:flex;align-items:center;gap:8px;font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text',sans-serif;",
+      "contentBullet": "width:4px;height:4px;border-radius:50%;background:#60a5fa;opacity:.5;flex-shrink:0;",
+      "guide": "font-size:11px;color:#48484a;margin-bottom:22px;line-height:1.6;padding:10px 12px;background:rgba(255,255,255,.02);border-radius:10px;border-left:2px solid rgba(96,165,250,.4);font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text',sans-serif;",
+      "btnWrap": "display:flex;justify-content:flex-end;",
+      "btn": "background:linear-gradient(135deg,#60a5fa,#818cf8);color:#fff;border:none;padding:10px 28px;border-radius:100px;font-size:13px;font-weight:600;cursor:pointer;font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text',sans-serif;letter-spacing:-.2px;box-shadow:0 4px 16px rgba(96,165,250,.25);transition:transform .15s,box-shadow .15s;"
+    },
+    "data": {
+      "title": "发现新版本",
+      "verLabel": "最新版本",
+      "verValue": "v2.4.4",
+      "time": "2026年5月7日 ",
+      "sectionTitle": "更新内容📋",
+      "contents": [
+        "新增背景模式切换",
+        "新增工具功能",
+        "优化UI界面更加自然协调"
+      ],
+      "guide": "请更新到最新版本提高使用体验。",
+      "btnText": "立即更新"
     }
   }
 }
