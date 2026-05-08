@@ -36,20 +36,51 @@
     }
   ],
   "navItems": [
-    {"key":"home","icon":"🏠","label":"主页","active":true},
-    {"key":"search","icon":"🛠️","label":"工具","active":false},
-    {"key":"profile","icon":"👤","label":"我的","active":false}
+    {
+      "key": "home",
+      "icon": "🏠",
+      "label": "主页",
+      "active": true
+    },
+    {
+      "key": "search",
+      "icon": "🛠️",
+      "label": "工具",
+      "active": false
+    },
+    {
+      "key": "profile",
+      "icon": "👤",
+      "label": "我的",
+      "active": false
+    }
   ],
   "menuItems": [
-    {"key":"changelog","icon":"🔄","text":"更新日志"},
-    {"key":"userAgreement","icon":"📄","text":"用户协议"},
-    {"key":"privacyPolicy","icon":"🔒","text":"隐私政策"},
-    {"key":"about","icon":"ℹ️","text":"关于"}
+    {
+      "key": "changelog",
+      "icon": "🔄",
+      "text": "更新日志"
+    },
+    {
+      "key": "userAgreement",
+      "icon": "📄",
+      "text": "用户协议"
+    },
+    {
+      "key": "privacyPolicy",
+      "icon": "🔒",
+      "text": "隐私政策"
+    },
+    {
+      "key": "about",
+      "icon": "ℹ️",
+      "text": "关于"
+    }
   ],
   "pages": {
     "changelog": {
       "t": "更新日志",
-      "c": "<div class=\"pb\"><span class=\"vt\">v2.4.4</span><ul><li>新增背景模式切换</li><li>新增工具功能</li><li>优化UI界面更加自然协调</li></ul></div>"
+      "c": "<div class=\"pb\"><span class=\"vt\">v2.4.4</span><ul><li>新增背景模式切换</li><li>新增工具功能</li><li>优化UI界面</li></ul></div>"
     },
     "userAgreement": {
       "t": "用户协议",
