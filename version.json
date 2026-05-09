@@ -1,12 +1,12 @@
 {
-  "version": "2.4.3",
+  "version": "2.4.4",
   "downloadUrl": "https://drive.uc.cn/s/1ea4273537254?public=1",
   "updateLog": "<ul><li>新增背景模式切换</li><li>新增工具功能</li><li>优化UI界面更加自然协调</li></ul>",
   "updateModal": {
     "data": {
       "title": "发现新版本",
       "verLabel": "最新版本",
-      "time": "2026年5月9日2:49",
+      "time": "2026年5月9日19:31",
       "sectionTitle": "更新内容📋",
       "contents": [
         "新增背景模式切换",
