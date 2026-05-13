@@ -55,12 +55,6 @@
       "active": true
     },
     {
-      "key": "search",
-      "icon": "🛠️",
-      "label": "工具",
-      "active": false
-    },
-    {
       "key": "profile",
       "icon": "👤",
       "label": "我的",
@@ -92,7 +86,7 @@
   "pages": {
     "changelog": {
       "t": "更新日志",
-      "c": "<div class=\"pb\"><span class=\"vt\">v2.4.4</span><ul><li>新增背景模式切换</li><li>新增工具功能</li><li>优化UI界面</li></ul></div>"
+      "c": "<div class=\"pb\"><span class=\"vt\">v2.4.4</span><ul><li>新增背景模式切换</li><li>优化UI界面</li></ul></div>"
     },
     "userAgreement": {
       "t": "用户协议",
@@ -104,57 +98,7 @@
     },
     "about": {
       "t": "关于",
-      "c": "<div class=\"about-wrap\"><div class=\"aw\"><div class=\"av-wrap\" style=\"width:100px;height:100px\"><div class=\"av-core\" id=\"about-av\"><img src=\"\" alt=\"头像\"></div></div></div><div class=\"meta\"><div class=\"ver\">当前版本 <span id=\"cur-ver\">v2.4.4</span></div><button class=\"cub\" id=\"cub\">检查更新</button><a class=\"cub reward-btn\" href=\"https://drive.uc.cn/s/02e2208e3ac74?public=1\" target=\"_blank\">❤️ 赞赏</a></div><div id=\"update-tip\" style=\"display:none;margin-top:12px;font-size:13px;color:#22c55e;\"></div></div>"
+      "c": "<div class=\"about-wrap\"><div class=\"meta\"><div class=\"ver\">当前版本 <span id=\"cur-ver\">v2.4.4</span></div><button class=\"cub\" id=\"cub\">检查更新</button><a class=\"cub reward-btn\" href=\"https://drive.uc.cn/s/02e2208e3ac74?public=1\" target=\"_blank\">❤️ 赞赏</a></div><div id=\"update-tip\" style=\"display:none;margin-top:12px;font-size:13px;color:#22c55e;\"></div></div>"
     }
-  },
-  "tools": [
-    {
-      "k": "ai",
-      "n": "AI工具",
-      "items": [
-        {
-          "n": "豆包",
-          "u": "https://www.doubao.com"
-        },
-        {
-          "n": "DeepSeek",
-          "u": "https://chat.deepseek.com"
-        },
-        {
-          "n": "Kimi",
-          "u": "https://kimi.moonshot.cn"
-        }
-      ]
-    },
-    {
-      "k": "tb",
-      "n": "一个木涵",
-      "items": [
-        {
-          "n": "一个木涵",
-          "u": "https://ol.woobx.cn"
-        }
-      ]
-    },
-    {
-      "k": "weather",
-      "n": "查询天气",
-      "items": [
-        {
-          "n": "天气查询",
-          "u": "https://tianqi.qq.com"
-        }
-      ]
-    },
-    {
-      "k": "game",
-      "n": "小游戏",
-      "items": [
-        {
-          "n": "H5游戏",
-          "u": "https://www.yikm.net"
-        }
-      ]
-    }
-  ]
+  }
 }
