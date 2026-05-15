@@ -1,6 +1,6 @@
 {
   "appName": "资源星",
-  "version": "2.4.5",
+  "version": "2.4.3",
   "footerNote": "⚡ 持续更新 | 仅供学习交流",
   "resources": [
     { "name": "球球大作战", "url": "https://drive.uc.cn/s/7a6694a1a5934?public=1", "icon": "game", "desc": "经典休闲竞技游戏" },
