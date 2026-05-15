@@ -1,20 +1,15 @@
 {
   "version": "2.4.4",
-  "downloadUrl": "https://drive.uc.cn/s/1ea4273537254?public=1",
-  "updateLog": "<ul><li>新增背景模式切换</li><li>新增工具功能</li><li>优化UI界面更加自然协调</li></ul>",
+  "downloadUrl": "https://drive.uc.cn/s/xxx?public=1",
+  "updateLog": "- 简化UI\n- ",
   "updateModal": {
-    "data": {
-      "title": "发现新版本",
-      "verLabel": "最新版本",
-      "time": "2026年5月9日19:31",
-      "sectionTitle": "更新内容📋",
-      "contents": [
-        "新增背景模式切换",
-        "新增工具功能",
-        "优化UI界面更加自然协调"
-      ],
-      "guide": "请更新到最新版本提高使用体验。",
-      "btnText": "立即更新"
-    }
+    "icon": "🚀",
+    "iconBg": "linear-gradient(135deg,#3b82f6,#60a5fa)",
+    "title": "发现新版本",
+    "verLabel": "最新版本",
+    "content": "<div style='color:#2563eb;font-weight:700'>重要更新</div>\n- 修复已知问题bug\n- 提升性能优化\n- 优化UI界面",
+    "exitText": "退出",
+    "updateText": "立即更新",
+    "forceUpdate": true
   }
 }
