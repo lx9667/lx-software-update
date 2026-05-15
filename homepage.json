@@ -3,11 +3,35 @@
   "version": "2.4.3",
   "footerNote": "⚡ 持续更新 | 仅供学习交流",
   "resources": [
-    { "name": "球球大作战", "url": "https://drive.uc.cn/s/7a6694a1a5934?public=1", "icon": "game", "desc": "经典休闲竞技游戏" },
-    { "name": "影视大全", "url": "https://drive.uc.cn/s/da6c2b9a5f944?public=1", "icon": "movie", "desc": "全网影视资源聚合" },
-    { "name": "实用软件", "url": "https://drive.uc.cn/s/1231003cadac4?public=1", "icon": "tool", "desc": "各类实用工具软件" },
-    { "name": "音乐阅读", "url": "https://drive.uc.cn/s/628a7deec8744?public=1", "icon": "music", "desc": "音乐与阅读资源" },
-    { "name": "游戏破解", "url": "https://drive.uc.cn/s/003d98c4f3894?public=1", "icon": "hack", "desc": "破解版游戏合集" },
-    { "name": "五子棋", "url": "https://drive.uc.cn/s/a94a8b5e6f864?public=1", "icon": "chess", "desc": "经典五子棋游戏" }
+    {
+      "name": "球球大作战",
+      "url": "https://drive.uc.cn/s/7a6694a1a5934?public=1",
+      "icon": "game"
+    },
+    {
+      "name": "影视大全",
+      "url": "https://drive.uc.cn/s/da6c2b9a5f944?public=1",
+      "icon": "movie"
+    },
+    {
+      "name": "实用软件",
+      "url": "https://drive.uc.cn/s/1231003cadac4?public=1",
+      "icon": "tool"
+    },
+    {
+      "name": "音乐阅读",
+      "url": "https://drive.uc.cn/s/628a7deec8744?public=1",
+      "icon": "music"
+    },
+    {
+      "name": "游戏破解",
+      "url": "https://drive.uc.cn/s/003d98c4f3894?public=1",
+      "icon": "hack"
+    },
+    {
+      "name": "五子棋",
+      "url": "https://drive.uc.cn/s/a94a8b5e6f864?public=1",
+      "icon": "chess"
+    }
   ]
 }
