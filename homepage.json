@@ -5,32 +5,38 @@
     {
       "name": "球球大作战",
       "url": "https://drive.uc.cn/s/7a6694a1a5934?public=1",
-      "icon": "game"
+      "icon": "game",
+      "desc": "休闲竞技手游"
     },
     {
       "name": "影视大全",
       "url": "https://drive.uc.cn/s/da6c2b9a5f944?public=1",
-      "icon": "movie"
+      "icon": "movie",
+      "desc": "海量影视资源"
     },
     {
       "name": "实用软件",
       "url": "https://drive.uc.cn/s/1231003cadac4?public=1",
-      "icon": "tool"
+      "icon": "tool",
+      "desc": "日常工具合集"
     },
     {
       "name": "音乐阅读",
       "url": "https://drive.uc.cn/s/628a7deec8744?public=1",
-      "icon": "music"
+      "icon": "music",
+      "desc": "影音阅读资源"
     },
     {
       "name": "游戏破解",
       "url": "https://drive.uc.cn/s/003d98c4f3894?public=1",
-      "icon": "hack"
+      "icon": "hack",
+      "desc": "破解游戏合集"
     },
     {
       "name": "五子棋",
       "url": "https://drive.uc.cn/s/a94a8b5e6f864?public=1",
-      "icon": "chess"
+      "icon": "chess",
+      "desc": "经典棋类游戏"
     }
   ]
 }
