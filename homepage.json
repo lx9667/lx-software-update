@@ -1,42 +1,52 @@
-{
-  "appName": "PQ资源库",
-  "footerNote": "⚡ 持续更新 | 仅供学习交流",
-  "resources": [
-    {
-      "name": "球球大作战",
-      "url": "https://drive.uc.cn/s/7a6694a1a5934?public=1",
-      "icon": "game",
-      "desc": "休闲竞技手游"
-    },
-    {
-      "name": "影视大全",
-      "url": "https://drive.uc.cn/s/da6c2b9a5f944?public=1",
-      "icon": "movie",
-      "desc": "海量影视资源"
-    },
-    {
-      "name": "实用软件",
-      "url": "https://drive.uc.cn/s/1231003cadac4?public=1",
-      "icon": "tool",
-      "desc": "日常工具合集"
-    },
-    {
-      "name": "音乐阅读",
-      "url": "https://drive.uc.cn/s/628a7deec8744?public=1",
-      "icon": "music",
-      "desc": "影音阅读资源"
-    },
-    {
-      "name": "游戏破解",
-      "url": "https://drive.uc.cn/s/003d98c4f3894?public=1",
-      "icon": "hack",
-      "desc": "破解游戏合集"
-    },
-    {
-      "name": "五子棋",
-      "url": "https://drive.uc.cn/s/a94a8b5e6f864?public=1",
-      "icon": "chess",
-      "desc": "经典棋类游戏"
-    }
-  ]
-}
+m[
+  {
+    "name": "球球大作战公益",
+    "displayName": "球球大作战公益",
+    "url": "https://drive.uc.cn/s/17fd4f1751aa4"
+  },
+  {
+    "name": "所有影视大全",
+    "displayName": "所有影视大全",
+    "url": "https://drive.uc.cn/s/2e4bfbb045134"
+  },
+  {
+    "name": "安卓常用软件",
+    "displayName": "安卓常用软件",
+    "url": "https://drive.uc.cn/s/0d05c799cece4"
+  },
+  {
+    "name": "免费听歌软件",
+    "displayName": "免费听歌软件",
+    "url": "https://drive.uc.cn/s/582f497e88454"
+  },
+  {
+    "name": "杂项",
+    "displayName": "杂项",
+    "url": "https://drive.uc.cn/s/7d2efbe7451f4?public=1"
+  },
+  {
+    "name": "阅读类",
+    "displayName": "阅读类",
+    "url": "https://drive.uc.cn/s/ab81873ce9434?public=1"
+  },
+  {
+    "name": "玩机必备软件",
+    "displayName": "玩机必备软件",
+    "url": "https://drive.uc.cn/s/472dde7930d04?public=1"
+  },
+  {
+    "name": "AI五子棋",
+    "displayName": "AI五子棋",
+    "url": "https://drive.uc.cn/s/9cf7b3251c024"
+  },
+  {
+    "name": "照片视频常用工具",
+    "displayName": "照片视频常用工具",
+    "url": "https://drive.uc.cn/s/12c5998cb0a84?public=1"
+  },
+  {
+    "name": "其他游戏坡解",
+    "displayName": "其他游戏坡解",
+    "url": "https://drive.uc.cn/s/3f97ef51a92a4?public=1"
+  }
+]
