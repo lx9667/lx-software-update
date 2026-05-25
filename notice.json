@@ -1,9 +1,11 @@
-{
-  "enabled": true,
-  "id": "notice-20250522-v2.4.5",
-  "frequency": "cycle",
-  "subtitle": "PQ资源库",
-  "content": "分享实用APP，完全免费公益，无任何广告套路。\n\n想获取更多资源，点击下方加入群聊。",
-  "groupUrl": "https://qun.qq.com/universal-share/share?ac=1&authKey=JljHJ92RoN4PaqAs%2FsZERhTnlwWVa3SAA5FH3O01aZXH7FAuchSZNuu9wkYuOMGD&busi_data=eyJncm91cENvZGUiOiI1NDk1NjYzMTIiLCJ0b2tlbiI6ImZzUkUvTWNRQlpiNVZpdnFvQ1hWL1VYYkxJNUcwajB4UmlsZE5sVWVVenBlTGhDZktYWUEwSS81RVRmT2xWT3IiLCJ1aW4iOiIzODY0MDg2MjE1In0%3D&data=w_A1Xo8gqeO21OqS3khQ6UVqiHm3PPmfRDvM4Ao2yGlcp6s7AXEtZkrq3QnT_GsW447GBad6f-WWNZowUOio-Q&svctype=4&tempid=h5_group_info",
-  "groupText": "加入群聊"
+
+  "title": "公告",
+  "date": "2026-05-25",
+  "content": [
+    "PQ资源库的所有资源均来源于网络，仅供学习参考，不得用于商业以及非法用途。",
+    "欢迎您的赞助😊，点界面头像即可。您的赞助会成为我对软件更新与日常维护的动力！"
+  ],
+  "cancelText": "取消",
+  "okText": "加入群聊",
+  "okUrl": "https://qun.qq.com/universal-share/share?ac=1&authKey=JljHJ92RoN4PaqAs%2FsZERhTnlwWVa3SAA5FH3O01aZXH7FAuchSZNuu9wkYuOMGD&busi_data=eyJncm91cENvZGUiOiI1NDk1NjYzMTIiLCJ0b2tlbiI6ImZzUkUvTWNRQlpiNVZpdnFvQ1hWL1VYYkxJNUcwajB4UmlsZE5sVWVVenBlTGhDZktYWUEwSS81RVRmT2xWT3IiLCJ1aW4iOiIzODY0MDg2MjE1In0%3D&data=w_A1Xo8gqeO21OqS3khQ6UVqiHm3PPmfRDvM4Ao2yGlcp6s7AXEtZkrq3QnT_GsW447GBad6f-WWNZowUOio-Q&svctype=4&tempid=h5_group_info"
 }
