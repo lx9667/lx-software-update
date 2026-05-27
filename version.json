@@ -1,13 +1,11 @@
 {
-  "version": "2.4.5",
-  "downloadUrl": "https://pan.baidu.com/s/13Z6CXD35HH4g_X2JsnjaaQ?pwd=m5x6",
-  "updateLog": "- 简化UI\n- ",
+  "version": "2.4.6",
+  "downloadUrl": "https://drive.uc.cn/s/35522dff46404?public=1",
+  "updateLog": "优化体验，修复已知问题",
   "updateModal": {
-    "icon": "🚀",
-    "iconBg": "linear-gradient(135deg,#3b82f6,#60a5fa)",
     "title": "发现新版本",
     "verLabel": "最新版本",
-    "content": "<div style='color:#2563eb;font-weight:700'>重要更新</div>\n- 修复已知问题bug\n- 新增6个资源\n- 优化UI界面",
+    "content": "优化体验，修复已知问题",
     "exitText": "退出",
     "updateText": "立即更新",
     "forceUpdate": true
