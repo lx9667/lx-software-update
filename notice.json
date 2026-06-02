@@ -1,14 +1,17 @@
 {
   "enabled": true,
   "title": "公告",
+  "subtitle": "临时通知",
   "date": "2026-06-2",
   "content": [
     "Atom Edge A8  荔枝(已更新)，24h自助下单(长按复制，浏览器打开):https://js.hsshop.com.cn/shop/KC8WOI4Q",
     "Edge总群：347909545，Atom总群：1097056351",
-  "PQ资源库的所有资源均来源于网络，仅供学习参考，不得用于商业以及非法用途。",
+    "PQ资源库的所有资源均来源于网络，仅供学习参考，不得用于商业以及非法用途。",
     "欢迎您的赞助，点界面头像即可。您的赞助会成为我对软件更新与日常维护的动力！"
   ],
-  "cancelText": "取消",
+  "channelName": "👉 24h自助卡网",
+  "channelUrl": "https://js.hsshop.com.cn/shop/KC8WOI4Q",
+  "cancelText": "关闭",
   "okText": "加入群聊",
-  "okUrl": "https://qun.qq.com/universal-share/share?ac=1&authKey=JljHJ92RoN4PaqAs%2FsZERhTnlwWVa3SAA5FH3O01aZXH7FAuchSZNuu9wkYuOMGD&busi_data=eyJncm91cENvZGUiOiI1NDk1NjYzMTIiLCJ0b2tlbiI6ImZzUkUvTWNRQlpiNVZpdnFvQ1hWL1VYYkxJNUcwajB4UmlsZE5sVWVVenBlTGhDZktYWUEwSS81RVRmT2xWT3IiLCJ1aW4iOiIzODY0MDg2MjE1In0%3D&data=w_A1Xo8gqeO21OqS3khQ6UVqiHm3PPmfRDvM4Ao2yGlcp6s7AXEtZkrq3QnT_GsW447GBad6f-WWNZowUOio-Q&svctype=4&tempid=h5_group_info"
+  "okUrl": "https://qun.qq.com/universal-share/share?ac=1&authKey=14X5TX8dawc5qZ2oiN2d%2ForhHLmJRLNM5eKOdNPEAR9tN79XUA5%2BYPgTt%2F4TKA5%2F&busi_data=eyJncm91cENvZGUiOiI1NDk1NjYzMTIiLCJ0b2tlbiI6IktHNDQ1MWFPcVo5S3h4bWk0OXZOZFNub2VNRjRGM01ySXFDQ0Z6MEZwWXJPemhSSGxlZmJCd1ZYdWhwcStwNnoiLCJ1aW4iOiIzODY0MDg2MjE1In0%3D&data=Jc5z8fGH08GbHOMpoXWhbThNtSHGMUoCsKOJDZUKQPaM-XuQSxJIcE4HEGqJXyziK_ZW-cmOyzTWWuO7bgVsjw&svctype=4&tempid=h5_group_info"
 }
