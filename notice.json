@@ -1,23 +1,25 @@
 {
-  "enabled": true,
+  "enabled": tprue,
   "title": "公告",
   "subtitle": "临时通知",
   "date": "2026-06-08",
   "cancelText": "关闭",
   "content": [
-    "Atom Edge A8 荔枝，开卡链接https://shop.6ov.xyz/Annlx(复制浏览器打开)。",
-    "Edge/Atom交流群：1085053496",
-    "PQ资源库的所有资源均来源于网络，仅供学习参考，不得用于商业以及非法用途。",
+    "Atom Edge A8 荔枝，开卡链接 https://shop.6ov.xyz/Annlx（复制浏览器打开）。",
+    "Edge/Atom 交流群：1085053496",
+    "PQ 资源库的所有资源均来源于网络，仅供学习参考，不得用于商业以及非法用途。",
     "欢迎赞助，点击界面头像即可。您的赞助将成为我更新与维护的动力。"
   ],
   "buttons": [
     {
-      "text": "24h卡网",
+      "text": "24h 卡网",
       "url": "https://js.hsshop.com.cn/shop/KC8WOI4Q"
     },
     {
-      "text": "加入群聊",
-      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=14X5TX8dawc5qZ2oiN2d%2ForhHLmJRLNM5eKOdNPEAR9tN79XUA5%2BYPgTt%2F4TKA5%2F&busi_data=eyJncm91cENvZGUiOiI1NDk1NjYzMTIiLCJ0b2tlbiI6IktHNDQ1MWFPcVo5S3h4bWk0OXZOZFNub2VNRjRGM01ySXFDQ0Z6MEZwWXJPemhSSGxlZmJCd1ZYdWhwcStwNnoiLCJ1aW4iOiIzODY0MDg2MjE1In0%3D&data=Jc5z8fGH08GbHOMpoXWhbThNtSHGMUoCsKOJDZUKQPaM-XuQSxJIcE4HEGqJXyziK_ZW-cmOyzTWWuO7bgVsjw&svctype=4&tempid=h5_group_info"
+      "text": "进入频道",
+      "url": "https://pd.qq.com/s/z9l76slo?b=9"
     }
-  ]
+  ],
+  "kawangTitle": "卡网地址",
+  "kawangDesc": "点击进入 Annlx 软件卡网"
 }
