@@ -1,12 +1,10 @@
 {
   "version": "2.5.3",
   "downloadUrl": "https://drive.uc.cn/s/35522dff46404?public=1",
-  "updateLog": "优化体验，修复已知问题",
   "updateModal": {
-    "title": "发现新版本",
+    "title": "⚠️ 重要更新",
     "verLabel": "最新版本",
-    "content": "内置卡网，修复bug。",
-    "exitText": "退出",
+    "content": "内置卡网，修复bug。\n请立即更新继续使用。",
     "updateText": "立即更新",
     "forceUpdate": true
   }
